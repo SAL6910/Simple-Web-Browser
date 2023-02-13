@@ -42,28 +42,19 @@ This project is about displaying the HTML code of websites on the windows form a
 <img src="SS/Screenshot (5).png" alt="Main">
 
 
-## Installation
+## Execution
 
-In XAMPP, just create new database in phpmyadmin and import SQL file which is located in `SQL/` directory.
+Open the `WebApp.sln` file in `WebApp` folder in Visual Studio 2022.
 
-## Admin Page
-
-To access admin portal, type this in URL `root/admin/ ` where root is your root directory
-
-Admin credentials: Username: admin Password: admin123
 
 ## Technologies Used
 
-1. PHP
-2. SQL
-3. BOOTSTRAP 4
-4. AJAX
-5. JQUERY
+1. C#
 
 ## System Requirements
 
-Software : XAMPP 
+Software : Visual Studio 2022
 
 ## Demo
 
-Try the application: https://restaurantshub.000webhostapp.com/
+Try the application at `WebApp Executable File/WebApp.exe `
