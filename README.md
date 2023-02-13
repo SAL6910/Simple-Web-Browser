@@ -1,4 +1,4 @@
-# Simple Web Browser
+# Simple-Web-Browser
 
 ## About the Project
 
