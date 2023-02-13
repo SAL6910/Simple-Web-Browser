@@ -8,38 +8,31 @@ This project is about displaying the HTML code of websites on the windows form a
 
 
 <p align="center">
-    <b>Main Page</b>
+    <b>Home</b>
 </p>
 
-<img src="SS/Screenshot (8).png" alt="Main">
+<img src="SS/Screenshot 1.png" alt="Main">
 
 
 <p align="center">
-    <b>Login Page</b>
+    <b>Bookmarks and History</b>
 </p>
 
-<img src="SS/Screenshot (2).png" alt="Main">
+<img src="SS/Screenshot 2.png" alt="Main">
 
 
 <p align="center">
-    <b>Register Page</b>
+    <b>Edit Bookmark</b>
 </p>
 
-<img src="SS/Screenshot (3).png" alt="Main">
+<img src="SS/Screenshot 3.png" alt="Main">
 
 
 <p align="center">
-    <b>Dishes Page</b>
+    <b>Edit Home Page</b>
 </p>
 
-<img src="SS/Screenshot (4).png" alt="Main">
-
-
-<p align="center">
-    <b>Admin Home Page</b>
-</p>
-
-<img src="SS/Screenshot (5).png" alt="Main">
+<img src="SS/Screenshot 4.png" alt="Main">
 
 
 ## Execution
