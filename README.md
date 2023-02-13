@@ -49,7 +49,7 @@ Open the `WebApp.sln` file in `WebApp` folder in Visual Studio 2022.
 
 ## Technologies Used
 
-1. C#
+C#
 
 ## System Requirements
 
