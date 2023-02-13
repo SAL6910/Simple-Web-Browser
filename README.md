@@ -5,7 +5,7 @@
 This project is about displaying the HTML code of websites on the windows form application created in C#. It also has multiple functionalities which mimic the working of an actual browser like history, favorites, reload, etc.
 
 
-
+## Screenshots
 
 <p align="center">
     <b>Home</b>
