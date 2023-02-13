@@ -1,0 +1,4 @@
+http://status.savanttools.com/?code=404%20Not%20Found
+https://www.google.com
+http://status.savanttools.com/?code=403%20Forbidden
+http://status.savanttools.com/?code=400%20Bad%20Request
